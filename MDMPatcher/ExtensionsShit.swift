@@ -23,7 +23,7 @@ extension NSAlert {
         self.alertStyle = style
         self.messageText = text.message
         self.informativeText = text.information
-    }
+    }  
     
 }
 
